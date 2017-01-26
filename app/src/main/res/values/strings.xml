@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Surprise</string>
+    <string name="heading">Hungry?</string>
+    <string name="invitation">Dinner For Two</string>
+    <string name="location">Our favorite place</string>
+    <string name="date_time">02/04/2017, 08:00 pm</string>
+</resources>
